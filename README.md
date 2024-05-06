@@ -5,8 +5,10 @@
 Job analysis is a systematic process used to understand the responsibilities and skills needed to perform a specific job effectively. Not only providing companies and organizations with information to find candidates who are best fit for specific jobs, job analysis also benefits employees by setting clear performance expectations and understanding their role. 
 # About the Project
 This project focuses on the U.S. data-related job market in the January of 2024. The objectives are to identify trending current data jobs in the market and their relative salary, as well as to determine common skills required in the data field. Through this project, we aim to gain hands-on experience in skills such as preprocessing raw data, data visualization and A/B testing, to  gain more useful insights into the data field.
+
 # Project Workflow
-More details in the `analysis.ipynb` file.
+More details in the `data_cleaning.py` and `analysis.ipynb` files.
+
 ## 1. Data Collection  
 The data set can be found [here](https://www.kaggle.com/datasets/asaniczka/data-science-job-postings-and-skills/data?select=job_skills.csv) and contains raw text information about data job postings collected from LinkedIn. It is split into three files:
 - `job_postings.csv`
